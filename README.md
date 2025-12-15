@@ -90,7 +90,7 @@ The Gesture Particle Engine was created by **Rahul Kumar**.
 
 * **GitHub**: [@Rahul-Kumar-404](https://github.com/Rahul-Kumar-404)
 * **LinkedIn**: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-404)
-* * **X formerly Twitter** [@Rahul_Kumar_404](https://x.com/Rahul_Kumar_404)
+* **X formerly Twitter** [@Rahul_Kumar_404](https://x.com/Rahul_Kumar_404)
 * **Instagram**: [@marcus_the_darcus](https://www.instagram.com/marcus_the_darcus)
 
 📝 License
