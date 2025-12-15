@@ -2,6 +2,10 @@
 ===========================
 **Gesture Particle Engine** - A mesmerizing interactive web experience that brings particles to life with your hand gestures 🌟
 
+## 🔗 Live Demo
+### [Click here to View Live Demo](https://particle-engine.netlify.app/)
+*(Note: Please allow camera access to interact with the particles)*
+
 📖 Description
 ================
 The Gesture Particle Engine is a cutting-edge web application that leverages the power of HTML, CSS, JavaScript, and AI to create an immersive and interactive experience. This project showcases a stunning particle engine that responds to real-time hand gestures using computer vision, providing a unique and captivating visual experience. With its mobile-friendly design and optimized performance, this project demonstrates the future of web interactivity.
@@ -76,8 +80,6 @@ To test the Gesture Particle Engine, follow these steps:
 ### Mobile View
 <img src="https://github.com/user-attachments/assets/a5bd6d28-88ac-479d-a637-338d4acb9ec7" alt="Mobile Screenshot" width="300">
 
-
-
 📦 API Reference
 ==================
 As this is a static website, there is no external API reference available. However, the project's configuration (Particle Count, Colors, Sensitivity) can be modified directly in the **script.js** file variables.
@@ -89,6 +91,7 @@ The Gesture Particle Engine was created by **Rahul Kumar**.
 * **GitHub**: [@Rahul-Kumar-404](https://github.com/Rahul-Kumar-404)
 * **LinkedIn**: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-404)
 * **Instagram**: [@marcus_the_darcus](https://www.instagram.com/marcus_the_darcus)
+* **x formerly twitter** [@Rahul_Kumar_404](https://x.com/Rahul_Kumar_404)
 
 📝 License
 ================
