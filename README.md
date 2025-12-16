@@ -3,7 +3,7 @@
 **Gesture Particle Engine** - A mesmerizing interactive web experience that brings particles to life with your hand gestures 🌟
 
 ## 🔗 Live Demo
-### [Click here to View Live Demo](https://particle-engine.netlify.app/)
+### [Click here to View Live Demo](https://cyberdust.netlify.app/)
 *(Note: Please allow camera access to interact with the particles)*
 
 📖 Description
